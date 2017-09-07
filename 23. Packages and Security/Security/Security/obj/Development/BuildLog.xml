@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<BuildLog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ProjectInfo>
+    <Name>Security</Name>
+    <LastWriteTime>2017-09-05T14:24:47.0866925Z</LastWriteTime>
+    <LastKnownProtectionLevel>EncryptAllWithPassword</LastKnownProtectionLevel>
+    <Salt>QjWUiNuf</Salt>
+    <LastKnownProtectedHashedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAprhwlcFRFUCn5/MpK+33JgAAAAACAAAAAAADZgAAwAAAABAAAABrnyeBh6dHlWbJv4vnmKuPAAAAAASAAACgAAAAEAAAAKGlsAnT4nl+g+Yz+29flvEoAAAAr78+qsR+8lXjIEM+v26jp/zHWKlpVq7ZXLQjB4CzOZnGvMshFWcDpBQAAACLe1gUivKMWvpidFG1bD6T9eeB5A==</LastKnownProtectedHashedPassword>
+  </ProjectInfo>
+  <LastBuildInfos>
+    <ProjectBuildItemInfo>
+      <Name>SecurePackage.dtsx</Name>
+      <LastWriteTime>2017-09-05T14:23:53.1076099Z</LastWriteTime>
+      <LastKnownProtectionLevel>EncryptAllWithPassword</LastKnownProtectionLevel>
+      <Salt>lAS8XbaQ</Salt>
+      <LastKnownProtectedHashedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAprhwlcFRFUCn5/MpK+33JgAAAAACAAAAAAADZgAAwAAAABAAAACYWs2qQ8DY/eK+Tjb3d6EHAAAAAASAAACgAAAAEAAAAMJIDYHSgWt2Qm+XrypYajAoAAAAetr/7aK81HcSbXO0HwOWdkGavEnVRRiS9Pe6UqT6J1M88CIsSxyOsBQAAABn1bUohjeDrqDscdUjuw+w13wGnw==</LastKnownProtectedHashedPassword>
+    </ProjectBuildItemInfo>
+  </LastBuildInfos>
+</BuildLog>

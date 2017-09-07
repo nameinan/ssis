@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <DeploymentModel>Project</DeploymentModel>
+  <ProductVersion>12.0.2430.0</ProductVersion>
+  <SchemaVersion>9.0.1.0</SchemaVersion>
+  <State>$base64$PFNvdXJjZUNvbnRyb2xJbmZvIHhtbG5zOnhzZD0iaHR0cDovL3d3dy53My5vcmcvMjAwMS9YTUxTY2hlbWEiIHhtbG5zOnhzaT0iaHR0cDovL3d3dy53My5vcmcvMjAwMS9YTUxTY2hlbWEtaW5zdGFuY2UiIHhtbG5zOmRkbDI9Imh0dHA6Ly9zY2hlbWFzLm1pY3Jvc29mdC5jb20vYW5hbHlzaXNzZXJ2aWNlcy8yMDAzL2VuZ2luZS8yIiB4bWxuczpkZGwyXzI9Imh0dHA6Ly9zY2hlbWFzLm1pY3Jvc29mdC5jb20vYW5hbHlzaXNzZXJ2aWNlcy8yMDAzL2VuZ2luZS8yLzIiIHhtbG5zOmRkbDEwMF8xMDA9Imh0dHA6Ly9zY2hlbWFzLm1pY3Jvc29mdC5jb20vYW5hbHlzaXNzZXJ2aWNlcy8yMDA4L2VuZ2luZS8xMDAvMTAwIiB4bWxuczpkZGwyMDA9Imh0dHA6Ly9zY2hlbWFzLm1pY3Jvc29mdC5jb20vYW5hbHlzaXNzZXJ2aWNlcy8yMDEwL2VuZ2luZS8yMDAiIHhtbG5zOmRkbDIwMF8yMDA9Imh0dHA6Ly9zY2hlbWFzLm1pY3Jvc29mdC5jb20vYW5hbHlzaXNzZXJ2aWNlcy8yMDEwL2VuZ2luZS8yMDAvMjAwIiB4bWxuczpkZGwzMDA9Imh0dHA6Ly9zY2hlbWFzLm1pY3Jvc29mdC5jb20vYW5hbHlzaXNzZXJ2aWNlcy8yMDExL2VuZ2luZS8zMDAiIHhtbG5zOmRkbDMwMF8zMDA9Imh0dHA6Ly9zY2hlbWFzLm1pY3Jvc29mdC5jb20vYW5hbHlzaXNzZXJ2aWNlcy8yMDExL2VuZ2luZS8zMDAvMzAwIiB4bWxuczpkZGw0MDA9Imh0dHA6Ly9zY2hlbWFzLm1pY3Jvc29mdC5jb20vYW5hbHlzaXNzZXJ2aWNlcy8yMDEyL2VuZ2luZS80MDAiIHhtbG5zOmRkbDQwMF80MDA9Imh0dHA6Ly9zY2hlbWFzLm1pY3Jvc29mdC5jb20vYW5hbHlzaXNzZXJ2aWNlcy8yMDEyL2VuZ2luZS80MDAvNDAwIiB4bWxuczpkd2Q9Imh0dHA6Ly9zY2hlbWFzLm1pY3Jvc29mdC5jb20vRGF0YVdhcmVob3VzZS9EZXNpZ25lci8xLjAiPg0KICA8RW5hYmxlZD5mYWxzZTwvRW5hYmxlZD4NCiAgPFByb2plY3ROYW1lPjwvUHJvamVjdE5hbWU+DQogIDxBdXhQYXRoPjwvQXV4UGF0aD4NCiAgPExvY2FsUGF0aD48L0xvY2FsUGF0aD4NCiAgPFByb3ZpZGVyPjwvUHJvdmlkZXI+DQo8L1NvdXJjZUNvbnRyb2xJbmZvPg==</State>
+  <Database>
+    <Name>Security.database</Name>
+    <FullPath>Security.database</FullPath>
+  </Database>
+  <DataSources />
+  <DataSourceViews />
+  <DeploymentModelSpecificContent>
+    <Manifest>
+      <SSIS:Project SSIS:Salt="Toh0T13K3Q==" SSIS:IV="h3LeaLOPJVs=" SSIS:ProtectionLevel="EncryptAllWithPassword" xmlns:SSIS="www.microsoft.com/SqlServer/SSIS">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</SSIS:Project>
+    </Manifest>
+  </DeploymentModelSpecificContent>
+  <Miscellaneous />
+  <Configurations>
+    <Configuration>
+      <Name>Development</Name>
+      <Options>
+        <OutputPath>bin</OutputPath>
+        <ConnectionMappings />
+        <ConnectionProviderMappings />
+        <ConnectionSecurityMappings />
+        <DatabaseStorageLocations />
+        <ParameterConfigurationValues>
+          <ConfigurationSetting>
+            <Id>LastModifiedTime</Id>
+            <Name>LastModifiedTime</Name>
+            <Value xsi:type="xsd:dateTime">2017-09-05T13:56:43.5935528Z</Value>
+          </ConfigurationSetting>
+        </ParameterConfigurationValues>
+      </Options>
+    </Configuration>
+  </Configurations>
+</Project>
