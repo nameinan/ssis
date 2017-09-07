@@ -1,0 +1,14 @@
+﻿<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="10.32.104.180.EtuileMigrated.etuileprofiler"
+  DTS:DTSID="{07C5D5E8-7011-40C5-9083-B9BFB25C36BD}"
+  DTS:CreationName="ADO.NET:System.Data.SqlClient.SqlConnection, System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectionString="Data Source=10.32.104.180;User ID=etuileprofiler;Initial Catalog=EtuileMigrated;Application Name=SSIS-SsisDemo-{07C5D5E8-7011-40C5-9083-B9BFB25C36BD}10.32.104.180.EtuileMigrated.etuileprofiler;">
+      <DTS:Password
+        DTS:Name="Password"
+        Sensitive="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAprhwlcFRFUCn5/MpK+33JgAAAAACAAAAAAADZgAAwAAAABAAAAAcUNWQV2RnvLMe9Gw0f16qAAAAAASAAACgAAAAEAAAANMBdOdi+OtdACngK3yvzDN4AAAA3iagG02+yt9N9AG288owBytK5D3KKfufnvSTQJjI/ZPswOWIbVEHW5Z2pIx4xRoXMIZzqewR5rZ59MIGyxnVyvllPI3ugddh4vwcr47lKByeKxRyWUg/3G/AyegABWeIIbrTh1nLOg3qXBBgj0wIiD0QEEotFwn6FAAAADhkRNqxojQ5BR4JKqOCMvin6JRT</DTS:Password>
+    </DTS:ConnectionManager>
+  </DTS:ObjectData>
+</DTS:ConnectionManager>

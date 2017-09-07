@@ -1,0 +1,100 @@
+ProductID	Name	ProductNumber	Color	StandardCost	ListPrice	Size	ProductLine	Class	ProductModelID	ProductSubcategoryID
+320	Chainring Bolts	CB-2903	Silver	.0000	.0000					
+321	Chainring Nut	CN-6137	Silver	.0000	.0000					
+332	Freewheel	FH-2981	Silver	.0000	.0000					
+351	Front Derailleur Cage	FC-3982	Silver	.0000	.0000					
+352	Front Derailleur Linkage	FL-2301	Silver	.0000	.0000					
+461	Lock Ring	LR-2398	Silver	.0000	.0000					
+679	Rear Derailleur Cage	RC-0291	Silver	.0000	.0000					
+709	Mountain Bike Socks, M	SO-B909-M	White	3.3963	9.5000	M	M 		18	23
+710	Mountain Bike Socks, L	SO-B909-L	White	3.3963	9.5000	L	M 		18	23
+712	AWC Logo Cap	CA-1098	Multi	6.9223	8.9900		S 		2	19
+713	Long-Sleeve Logo Jersey, S	LJ-0192-S	Multi	38.4923	49.9900	S	S 		11	21
+714	Long-Sleeve Logo Jersey, M	LJ-0192-M	Multi	38.4923	49.9900	M	S 		11	21
+715	Long-Sleeve Logo Jersey, L	LJ-0192-L	Multi	38.4923	49.9900	L	S 		11	21
+716	Long-Sleeve Logo Jersey, XL	LJ-0192-X	Multi	38.4923	49.9900	XL	S 		11	21
+739	HL Mountain Frame - Silver, 42	FR-M94S-42	Silver	747.2002	1364.5000	42	M 	H 	5	12
+740	HL Mountain Frame - Silver, 44	FR-M94S-44	Silver	706.8110	1364.5000	44	M 	H 	5	12
+741	HL Mountain Frame - Silver, 48	FR-M94S-52	Silver	706.8110	1364.5000	48	M 	H 	5	12
+742	HL Mountain Frame - Silver, 46	FR-M94S-46	Silver	747.2002	1364.5000	46	M 	H 	5	12
+748	HL Mountain Frame - Silver, 38	FR-M94S-38	Silver	747.2002	1364.5000	38	M 	H 	5	12
+771	Mountain-100 Silver, 38	BK-M82S-38	Silver	1912.1544	3399.9900	38	M 	H 	19	1
+772	Mountain-100 Silver, 42	BK-M82S-42	Silver	1912.1544	3399.9900	42	M 	H 	19	1
+773	Mountain-100 Silver, 44	BK-M82S-44	Silver	1912.1544	3399.9900	44	M 	H 	19	1
+774	Mountain-100 Silver, 48	BK-M82S-48	Silver	1912.1544	3399.9900	48	M 	H 	19	1
+779	Mountain-200 Silver, 38	BK-M68S-38	Silver	1265.6195	2319.9900	38	M 	H 	20	1
+780	Mountain-200 Silver, 42	BK-M68S-42	Silver	1265.6195	2319.9900	42	M 	H 	20	1
+781	Mountain-200 Silver, 46	BK-M68S-46	Silver	1265.6195	2319.9900	46	M 	H 	20	1
+797	Road-550-W Yellow, 38	BK-R64Y-38	Yellow	713.0798	1120.4900	38	R 	M 	29	2
+798	Road-550-W Yellow, 40	BK-R64Y-40	Yellow	713.0798	1120.4900	40	R 	M 	29	2
+799	Road-550-W Yellow, 42	BK-R64Y-42	Yellow	713.0798	1120.4900	42	R 	M 	29	2
+800	Road-550-W Yellow, 44	BK-R64Y-44	Yellow	713.0798	1120.4900	44	R 	M 	29	2
+801	Road-550-W Yellow, 48	BK-R64Y-48	Yellow	713.0798	1120.4900	48	R 	M 	29	2
+822	ML Road Frame-W - Yellow, 38	FR-R72Y-38	Yellow	360.9428	594.8300	38	R 	M 	17	14
+833	ML Road Frame-W - Yellow, 40	FR-R72Y-40	Yellow	360.9428	594.8300	40	R 	M 	17	14
+834	ML Road Frame-W - Yellow, 42	FR-R72Y-42	Yellow	360.9428	594.8300	42	R 	M 	17	14
+835	ML Road Frame-W - Yellow, 44	FR-R72Y-44	Yellow	360.9428	594.8300	44	R 	M 	17	14
+836	ML Road Frame-W - Yellow, 48	FR-R72Y-48	Yellow	360.9428	594.8300	48	R 	M 	17	14
+842	Touring-Panniers, Large	PA-T100	Grey	51.5625	125.0000		T 		120	35
+855	Men's Bib-Shorts, S	SB-M891-S	Multi	37.1209	89.9900	S	S 		12	18
+856	Men's Bib-Shorts, M	SB-M891-M	Multi	37.1209	89.9900	M	S 		12	18
+857	Men's Bib-Shorts, L	SB-M891-L	Multi	37.1209	89.9900	L	S 		12	18
+874	Racing Socks, M	SO-R809-M	White	3.3623	8.9900	M	R 		24	23
+875	Racing Socks, L	SO-R809-L	White	3.3623	8.9900	L	R 		24	23
+880	Hydration Pack - 70 oz.	HY-1023-70	Silver	20.5663	54.9900	70	S 		107	32
+881	Short-Sleeve Classic Jersey, S	SJ-0194-S	Yellow	41.5723	53.9900	S	S 		32	21
+882	Short-Sleeve Classic Jersey, M	SJ-0194-M	Yellow	41.5723	53.9900	M	S 		32	21
+883	Short-Sleeve Classic Jersey, L	SJ-0194-L	Yellow	41.5723	53.9900	L	S 		32	21
+884	Short-Sleeve Classic Jersey, XL	SJ-0194-X	Yellow	41.5723	53.9900	XL	S 		32	21
+885	HL Touring Frame - Yellow, 60	FR-T98Y-60	Yellow	601.7437	1003.9100	60	T 	H 	7	16
+886	LL Touring Frame - Yellow, 62	FR-T67Y-62	Yellow	199.8519	333.4200	62	T 	L 	10	16
+887	HL Touring Frame - Yellow, 46	FR-T98Y-46	Yellow	601.7437	1003.9100	46	T 	H 	7	16
+888	HL Touring Frame - Yellow, 50	FR-T98Y-50	Yellow	601.7437	1003.9100	50	T 	H 	7	16
+889	HL Touring Frame - Yellow, 54	FR-T98Y-54	Yellow	601.7437	1003.9100	54	T 	H 	7	16
+894	Rear Derailleur	RD-2308	Silver	53.9282	121.4600				127	9
+899	LL Touring Frame - Yellow, 44	FR-T67Y-44	Yellow	199.8519	333.4200	44	T 	L 	10	16
+900	LL Touring Frame - Yellow, 50	FR-T67Y-50	Yellow	199.8519	333.4200	50	T 	L 	10	16
+901	LL Touring Frame - Yellow, 54	FR-T67Y-54	Yellow	199.8519	333.4200	54	T 	L 	10	16
+902	LL Touring Frame - Yellow, 58	FR-T67Y-58	Yellow	199.8519	333.4200	58	T 	L 	10	16
+904	ML Mountain Frame-W - Silver, 40	FR-M63S-40	Silver	199.3757	364.0900	40	M 	M 	15	12
+905	ML Mountain Frame-W - Silver, 42	FR-M63S-42	Silver	199.3757	364.0900	42	M 	M 	15	12
+906	ML Mountain Frame-W - Silver, 46	FR-M63S-46	Silver	199.3757	364.0900	46	M 	M 	15	12
+907	Rear Brakes	RB-9231	Silver	47.2860	106.5000				128	6
+917	LL Mountain Frame - Silver, 42	FR-M21S-42	Silver	144.5938	264.0500	42	M 	L 	8	12
+918	LL Mountain Frame - Silver, 44	FR-M21S-44	Silver	144.5938	264.0500	44	M 	L 	8	12
+919	LL Mountain Frame - Silver, 48	FR-M21S-48	Silver	144.5938	264.0500	48	M 	L 	8	12
+920	LL Mountain Frame - Silver, 52	FR-M21S-52	Silver	144.5938	264.0500	52	M 	L 	8	12
+935	LL Mountain Pedal	PD-M282	Silver/Black	17.9776	40.4900		M 	L 	62	13
+936	ML Mountain Pedal	PD-M340	Silver/Black	27.5680	62.0900		M 	M 	63	13
+937	HL Mountain Pedal	PD-M562	Silver/Black	35.9596	80.9900		M 	H 	64	13
+938	LL Road Pedal	PD-R347	Silver/Black	17.9776	40.4900		R 	L 	68	13
+939	ML Road Pedal	PD-R563	Silver/Black	27.5680	62.0900		R 	M 	69	13
+940	HL Road Pedal	PD-R853	Silver/Black	35.9596	80.9900		R 	H 	70	13
+941	Touring Pedal	PD-T852	Silver/Black	35.9596	80.9900		T 		53	13
+942	ML Mountain Frame-W - Silver, 38	FR-M63S-38	Silver	199.3757	364.0900	38	M 	M 	15	12
+944	LL Mountain Frame - Silver, 40	FR-M21S-40	Silver	144.5938	264.0500	40	M 	L 	8	12
+945	Front Derailleur	FD-2342	Silver	40.6216	91.4900				103	9
+948	Front Brakes	FB-9873	Silver	47.2860	106.5000				102	6
+952	Chain	CH-0234	Silver	8.9866	20.2400				98	7
+954	Touring-1000 Yellow, 46	BK-T79Y-46	Yellow	1481.9379	2384.0700	46	T 	H 	34	3
+955	Touring-1000 Yellow, 50	BK-T79Y-50	Yellow	1481.9379	2384.0700	50	T 	H 	34	3
+956	Touring-1000 Yellow, 54	BK-T79Y-54	Yellow	1481.9379	2384.0700	54	T 	H 	34	3
+957	Touring-1000 Yellow, 60	BK-T79Y-60	Yellow	1481.9379	2384.0700	60	T 	H 	34	3
+961	Touring-3000 Yellow, 44	BK-T18Y-44	Yellow	461.4448	742.3500	44	T 	L 	36	3
+962	Touring-3000 Yellow, 50	BK-T18Y-50	Yellow	461.4448	742.3500	50	T 	L 	36	3
+963	Touring-3000 Yellow, 54	BK-T18Y-54	Yellow	461.4448	742.3500	54	T 	L 	36	3
+964	Touring-3000 Yellow, 58	BK-T18Y-58	Yellow	461.4448	742.3500	58	T 	L 	36	3
+965	Touring-3000 Yellow, 62	BK-T18Y-62	Yellow	461.4448	742.3500	62	T 	L 	36	3
+973	Road-350-W Yellow, 40	BK-R79Y-40	Yellow	1082.5100	1700.9900	40	R 	M 	27	2
+974	Road-350-W Yellow, 42	BK-R79Y-42	Yellow	1082.5100	1700.9900	42	R 	M 	27	2
+975	Road-350-W Yellow, 44	BK-R79Y-44	Yellow	1082.5100	1700.9900	44	R 	M 	27	2
+976	Road-350-W Yellow, 48	BK-R79Y-48	Yellow	1082.5100	1700.9900	48	R 	M 	27	2
+980	Mountain-400-W Silver, 38	BK-M38S-38	Silver	419.7784	769.4900	38	M 	M 	22	1
+981	Mountain-400-W Silver, 40	BK-M38S-40	Silver	419.7784	769.4900	40	M 	M 	22	1
+982	Mountain-400-W Silver, 42	BK-M38S-42	Silver	419.7784	769.4900	42	M 	M 	22	1
+983	Mountain-400-W Silver, 46	BK-M38S-46	Silver	419.7784	769.4900	46	M 	M 	22	1
+984	Mountain-500 Silver, 40	BK-M18S-40	Silver	308.2179	564.9900	40	M 	L 	23	1
+985	Mountain-500 Silver, 42	BK-M18S-42	Silver	308.2179	564.9900	42	M 	L 	23	1
+986	Mountain-500 Silver, 44	BK-M18S-44	Silver	308.2179	564.9900	44	M 	L 	23	1
+987	Mountain-500 Silver, 48	BK-M18S-48	Silver	308.2179	564.9900	48	M 	L 	23	1
+988	Mountain-500 Silver, 52	BK-M18S-52	Silver	308.2179	564.9900	52	M 	L 	23	1
